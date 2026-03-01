@@ -515,15 +515,17 @@
     "location": "Easton Stadium",
     "link": "https://ucla.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS:MULTI:SB25:4317:&linkID=ucla-multi&dataAccId=930&locale=en_US&siteId=ev_ucla-multi"
   },
-  {
-    "title":"UCLA vs Oregon State",
-    "category": "Softball",
-    "homeAway": "Home",
-    "date": "2026-05-03",
-    "time": "12:00 PM",
-    "location": "Easton Stadium",
-    "link": "https://ucla.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS:MULTI:SB25:4318:&linkID=ucla-multi&dataAccId=930&locale=en_US&siteId=ev_ucla-multi"
-  },
+    {
+      "title":"UCLA vs Oregon State",
+      "category": "Softball",
+      "homeAway": "Home",
+      "date": "2026-05-03",
+      "time": "12:00 PM",
+      "location": "Easton Stadium",
+      "link": "https://ucla.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS:MULTI:SB25:4318:&linkID=ucla-multi&dataAccId=930&locale=en_US&siteId=ev_ucla-multi"
+    }
+  ]
+
 
 
 

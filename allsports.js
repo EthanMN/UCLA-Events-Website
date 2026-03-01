@@ -20,3 +20,8 @@ Promise.all(files.map(file => fetch(file).then(res => res.json())))
   .catch(error => {
     console.error("Error loading event data:", error);
   });
+export const files = [
+  "../scheduleData/baseball.json",
+  "../scheduleData/softball.json",
+  "../scheduleData/othersports.json"
+];
