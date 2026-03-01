@@ -1,0 +1,86 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+#calendar-container {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+#calendar-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+#calendar-grid {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 5px;
+}
+
+.day-cell {
+  border: 1px solid #ccc;
+  min-height: 100px;
+  padding: 5px;
+  position: relative;
+}
+
+.day-number {
+  font-weight: bold;
+}
+
+.event {
+  font-size: 0.8em;
+  margin-top: 4px;
+  background: #2e6cff;
+  color: white;
+  padding: 2px 4px;
+  border-radius: 4px;
+  display: block;
+  text-decoration: none;
+}
+/* Calendar sidebar styles */
+#calendar-container-wrapper {
+  display: flex;
+  gap: 20px;
+}
+
+#calendar-container {
+  flex: 1; /* take remaining space */
+}
+
+#calendar-sidebar {
+  width: 200px;
+  border: 1px solid #ccc;
+  padding: 10px;
+  border-radius: 6px;
+  background: #f9f9f9;
+  height: fit-content; /* sidebar height matches content */
+}
+
+#calendar-sidebar h3 {
+  margin-top: 0;
+}
+
+#calendar-sidebar label {
+  display: block;
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+#calendar-sidebar select {
+  width: 100%;
+  margin-top: 4px;
+  padding: 4px;
+}
+
+/* Color-code categories (optional) */
+.event.Basketball { background: #2e6cff; }
+.event.VolleyballM { background: #ff6b6b; }
+.event.VolleyballW { background: #ff8c00; }
+.event.Softball { background: #ffa500; }
+.event.Baseball { background: #32cd32; }
+.event.Gymnastics { background: #9b59b6; }

@@ -1,0 +1,272 @@
+[
+  {
+    "title":"UCLA vs Cal State Fullerton",
+    "category": "Baseball",
+    "homeAway": "Home",
+    "date": "2026-03-03",
+    "time": "5:00 PM",
+    "location": "Jackie Robinson Stadium",
+    "link": "https://ucla.evenue.net/events/BSBHOME"
+  },
+  {
+    "title":"UCLA vs UC Irvine",
+    "category": "Baseball",
+    "homeAway": "Home",
+    "date": "2026-03-10",
+    "time": "6:00 PM",
+    "location": "Jackie Robinson",
+    "link": "https://ucla.evenue.net/events/BSBHOME"
+  },
+  {
+    "title":"UCLA vs Michigan",
+    "category": "Baseball",
+    "homeAway": "Home",
+    "date": "2026-03-13",
+    "time": "6:00 PM",
+    "location": "Jackie Robinson Stadium",
+    "link": "https://ucla.evenue.net/events/BSBHOME"
+  },
+  {
+    "title":"UCLA vs Michigan",
+    "category": "Baseball",
+    "homeAway": "Home",
+    "date": "2026-03-14",
+    "time": "2:00 PM",
+    "location": "Jackie Robinson Stadium",
+    "link": "https://ucla.evenue.net/events/BSBHOME"
+  },
+  {
+    "title":"UCLA vs Michigan",
+    "category": "Baseball",
+    "homeAway": "Home",
+    "date": "2026-03-15",
+    "time": "1:00 PM",
+    "location": "Jackie Robinson Stadium",
+    "link": "https://ucla.evenue.net/events/BSBHOME"
+  },
+  {
+    "title":"UCLA vs Pepperdine",
+    "category": "Baseball",
+    "homeAway": "Home",
+    "date": "2026-03-17",
+    "time": "6:00 PM",
+    "location": "Jackie Robinson Stadium",
+    "link": "https://ucla.evenue.net/events/BSBHOME"
+  },
+  {
+    "title":"UCLA vs Maryland",
+    "category": "Baseball",
+    "homeAway": "Home",
+    "date": "2026-03-20",
+    "time": "6:00 PM",
+    "location": "Jackie Robinson Stadium",
+    "link": "https://ucla.evenue.net/events/BSBHOME"
+  },
+  {
+    "title":"UCLA vs Maryland",
+    "category": "Baseball",
+    "homeAway": "Home",
+    "date": "2026-03-21",
+    "time": "2:00 PM",
+    "location": "Jackie Robinson Stadium",
+    "link": "https://ucla.evenue.net/events/BSBHOME"
+  },
+  {
+    "title":"UCLA vs Maryland",
+    "category": "Baseball",
+    "homeAway": "Home",
+    "date": "2026-03-22",
+    "time": "1:00 PM",
+    "location": "Jackie Robinson Stadium",
+    "link": "https://ucla.evenue.net/events/BSBHOME"
+  },
+  {
+    "title":"UCLA vs LMU",
+    "category": "Baseball",
+    "homeAway": "Home",
+    "date": "2026-03-24",
+    "time": "6:00 PM",
+    "location": "Jackie Robinson Stadium",
+    "link": "https://ucla.evenue.net/events/BSBHOME"
+  },
+  {
+    "title":"UCLA vs USC",
+    "category": "Baseball",
+    "homeAway": "Away",
+    "date": "2026-03-25",
+    "time": "2:00 PM",
+    "location": "Dedeaux Field",
+    "link": "https://usctrojans.evenue.net/event/BSB25/BS6"
+  },
+  {
+    "title":"UCLA vs UC Irvine",
+    "category": "Baseball",
+    "homeAway": "Away",
+    "date": "2026-03-31",
+    "time": "6:00 PM",
+    "location": "Cicerone Field",
+    "link": "https://ucirvinetickets.evenue.net/event/BS26/BS13"
+  },
+  {
+    "title":"UCLA vs USC",
+    "category": "Baseball",
+    "homeAway": "Home",
+    "date": "2026-04-03",
+    "time": "6:00 PM",
+    "location": "Jackie Robinson Stadium",
+    "link": "https://ucla.evenue.net/events/BSBHOME"
+  },
+  {
+    "title":"UCLA vs USC",
+    "category": "Baseball",
+    "homeAway": "Home",
+    "date": "2026-04-04",
+    "time": "2:00 PM",
+    "location": "Jackie Robinson Stadium",
+    "link": "https://ucla.evenue.net/events/BSBHOME"
+  },
+  {
+    "title":"UCLA vs USC",
+    "category": "Baseball",
+    "homeAway": "Home",
+    "date": "2026-04-05",
+    "time": "1:00 PM",
+    "location": "Jackie Robinson Stadium",
+    "link": "https://ucla.evenue.net/events/BSBHOME"
+  },
+  {
+    "title":"UCLA vs Cal State Fullerton",
+    "category": "Baseball",
+    "homeAway": "Away",
+    "date": "2026-04-07",
+    "time": "6:00 PM",
+    "location": "Goodwin Field",
+    "link": "https://fullertontickets.evenue.net/event/BS26/BS14"
+  },
+  {
+    "title":"UCLA vs Cal State Fullerton",
+    "category": "Baseball",
+    "homeAway": "Away",
+    "date": "2026-04-08",
+    "time": "2:00 PM",
+    "location": "Goodwin Field",
+    "link": "https://fullertontickets.evenue.net/event/BS26/BS14"
+  },
+  {
+    "title":"UCLA vs UCSB",
+    "category": "Baseball",
+    "homeAway": "Home",
+    "date": "2026-04-14",
+    "time": "4:00 PM",
+    "location": "Jackie Robinson Stadium",
+    "link": "https://ucla.evenue.net/events/BSBHOME"
+  },
+  {
+    "title":"UCLA vs Minnesota",
+    "category": "Baseball",
+    "homeAway": "Home",
+    "date": "2026-04-17",
+    "time": "6:00 PM",
+    "location": "Jackie Robinson Stadium",
+    "link": "https://ucla.evenue.net/events/BSBHOME"
+  },
+  {
+    "title":"UCLA vs Minnesota",
+    "category": "Baseball",
+    "homeAway": "Home",
+    "date": "2026-04-18",
+    "time": "2:00 PM",
+    "location": "Jackie Robinson Stadium",
+    "link": "https://ucla.evenue.net/events/BSBHOME"
+  },
+  {
+    "title":"UCLA vs Minnesota",
+    "category": "Baseball",
+    "homeAway": "Home",
+    "date": "2026-04-19",
+    "time": "12:00 PM",
+    "location": "Jackie Robinson Stadium",
+    "link": "https://ucla.evenue.net/events/BSBHOME"
+  },
+  {
+    "title":"UCLA vs Hawaii",
+    "category": "Baseball",
+    "homeAway": "Away",
+    "date": "2026-04-21",
+    "time": "6:00 PM",
+    "location": "Jackie Robinson Stadium",
+    "link": "https://ucla.evenue.net/events/BSBHOME"
+  },
+  {
+    "title":"UCLA vs Sacramento State",
+    "category": "Baseball",
+    "homeAway": "Home",
+    "date": "2026-04-24",
+    "time": "6:00 PM",
+    "location": "Pauley Pavilion",
+    "link": "https://ucla.evenue.net/list/SB"
+  },
+  {
+    "title":"UCLA vs Sacramento State",
+    "category": "Baseball",
+    "homeAway": "Home",
+    "date": "2026-04-25",
+    "time": "2:00 PM",
+    "location": "Jackie Robinson Stadium",
+    "link": "https://ucla.evenue.net/events/BSBHOME"
+  },
+  {
+    "title":"UCLA vs Sacramento State",
+    "category": "Baseball",
+    "homeAway": "Home",
+    "date": "2026-04-26",
+    "time": "1:00 PM",
+    "location": "Jackie Robinson Stadium",
+    "link": "https://ucla.evenue.net/events/BSBHOME"
+  },
+  {
+    "title":"UCLA vs UCSB",
+    "category": "Baseball",
+    "homeAway": "Away",
+    "date": "2026-04-28",
+    "time": "4:35 PM",
+    "location": "Caesar Uyesaka Stadium",
+    "link": "https://tix.axs.com/6LSPOgAAAACxOvRyAQAAAAAN%2fv%2f%2f%2fwD%2f%2f%2f%2f%2fB3Vjc2JhdGgA%2f%2f%2f%2f%2f%2f%2f%2f%2f%2f8%3d/shop/search"
+  },
+  {
+    "title":"UCLA vs LMU",
+    "category": "Baseball",
+    "homeAway": "Away",
+    "date": "2026-05-05",
+    "time": "6:00 PM",
+    "location": "Page Stadium",
+    "link": "https://lmulions.com/sports/baseball/schedule"
+  },
+  {
+    "title":"UCLA vs Oregon State",
+    "category": "Baseball",
+    "homeAway": "Home",
+    "date": "2026-05-08",
+    "time": "6:00 PM",
+    "location": "Jackie Robinson Stadium",
+    "link": "https://ucla.evenue.net/events/BSBHOME"
+  },
+  {
+    "title":"UCLA vs Oregon State",
+    "category": "Baseball",
+    "homeAway": "Home",
+    "date": "2026-05-09",
+    "time": "2:00 PM",
+    "location": "Jackie Robinson Stadium",
+    "link": "https://ucla.evenue.net/events/BSBHOME"
+  },
+  {
+      "title":"UCLA vs Oregon State",
+      "category": "Baseball",
+      "homeAway": "Home",
+      "date": "2026-05-10",
+      "time": "12:00 PM",
+      "location": "Jackie Robinson Stadium",
+      "link": "https://ucla.evenue.net/events/BSBHOME"
+    }
+  ]

@@ -1,0 +1,532 @@
+[
+  {
+    "title": "UCLA vs Nebraska",
+    "category": "Basketball (M)",
+    "homeAway": "Home",
+    "date": "2026-03-03",
+    "time": "8:00 PM",
+    "location": "Pauley Pavilion",
+    "link": "https://ucla.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS:MULTI:MBB25:219:&linkID=ucla-multi&dataAccId=930&locale=en_US&siteId=ev_ucla-multi&RSRC=Email&RDAT=4567"
+  },
+
+  {
+    "title":"UCLA vs USC",
+    "category": "Basketball (M)",
+    "homeAway": "Away",
+    "date": "2026-03-07",
+    "time": "6:00 PM",
+    "location": "Galen Center",
+    "link": "https://usctrojans.evenue.net/event/B25/BM16?_gl=1*1frwkhp*_gcl_au*MTE0ODE5NzQyNi4xNzcyMzg5OTky*_ga*MTczMjkwNTc4NS4xNzcyMzg5OTky*_ga_HZ7PFGMW52*czE3NzIzODk5OTEkbzEkZzAkdDE3NzIzODk5OTEkajYwJGwwJGgw*_ga_7GTPB9B8WQ*czE3NzIzODk5OTEkbzEkZzAkdDE3NzIzODk5OTEkajYwJGwwJGgw&_ga=2.251358918.1501305303.1772389992-1732905785.1772389992"
+  },
+  
+  {
+    "title":"UCLA vs Utah",
+    "category": "Gymnastics",
+    "homeAway": "Home",
+    "date": "2026-03-14",
+    "time": "7:30 PM",
+    "location": "Pauley Pavilion",
+    "link": "https://ucla.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS:MULTI:GYM25:3205:&linkID=ucla-multi&dataAccId=930&locale=en_US&siteId=ev_ucla-multi&RSRC=Email&RDAT=4691"
+  },
+  {
+    "title":"UCLA vs USC",
+    "category": "Volleyball (M)",
+    "homeAway": "Away",
+    "date": "2026-03-03",
+    "time": "7:00 PM",
+    "location": "Galen Center",
+    "link": "https://usctrojans.evenue.net/event/VBM25/VM6"
+  },
+  {
+    "title":"UCLA vs USC",
+    "category": "Volleyball (M)",
+    "homeAway": "Away",
+    "date": "2026-03-06",
+    "time": "7:00 PM",
+    "location": "Pauley Pavilion",
+    "link": "https://ucla.evenue.net/list/MVB"
+  },
+  {
+    "title":"UCLA vs Pepperdine",
+    "category": "Volleyball (M)",
+    "homeAway": "Home",
+    "date": "2026-04-02",
+    "time": "5:00 PM",
+    "location": "Pauley Pavilion",
+    "link": "https://ucla.evenue.net/list/MVB"
+  },
+  {
+    "title":"UCLA vs BYU",
+    "category": "Volleyball (M)",
+    "homeAway": "Home",
+    "date": "2026-04-16",
+    "time": "7:00 PM",
+    "location": "Pauley Pavilion",
+    "link": "https://ucla.evenue.net/list/MVB"
+  },
+  {
+    "title":"UCLA vs BYU",
+    "category": "Volleyball (M)",
+    "homeAway": "Home",
+    "date": "2026-04-18",
+    "time": "5:00 PM",
+    "location": "Pauley Pavilion",
+    "link": "https://ucla.evenue.net/list/MVB"
+  },
+  {
+    "title":"UCLA vs USC",
+    "category": "Volleyball (W)",
+    "homeAway": "Away",
+    "date": "2026-03-03",
+    "time": "7:00 PM",
+    "location": "Galen Center",
+    "link": "https://usctrojans.evenue.net/event/VBW25/VW6"
+  },
+  {
+    "title":"UCLA vs Cal State Fullerton",
+    "category": "Baseball",
+    "homeAway": "Home",
+    "date": "2026-03-03",
+    "time": "5:00 PM",
+    "location": "Jackie Robinson Stadium",
+    "link": "https://ucla.evenue.net/events/BSBHOME"
+  },
+  {
+    "title":"UCLA vs UC Irvine",
+    "category": "Baseball",
+    "homeAway": "Home",
+    "date": "2026-03-10",
+    "time": "6:00 PM",
+    "location": "Jackie Robinson",
+    "link": "https://ucla.evenue.net/events/BSBHOME"
+  },
+  {
+    "title":"UCLA vs Michigan",
+    "category": "Baseball",
+    "homeAway": "Home",
+    "date": "2026-03-13",
+    "time": "6:00 PM",
+    "location": "Jackie Robinson Stadium",
+    "link": "https://ucla.evenue.net/events/BSBHOME"
+  },
+  {
+    "title":"UCLA vs Michigan",
+    "category": "Baseball",
+    "homeAway": "Home",
+    "date": "2026-03-14",
+    "time": "2:00 PM",
+    "location": "Jackie Robinson Stadium",
+    "link": "https://ucla.evenue.net/events/BSBHOME"
+  },
+  {
+    "title":"UCLA vs Michigan",
+    "category": "Baseball",
+    "homeAway": "Home",
+    "date": "2026-03-15",
+    "time": "1:00 PM",
+    "location": "Jackie Robinson Stadium",
+    "link": "https://ucla.evenue.net/events/BSBHOME"
+  },
+  {
+    "title":"UCLA vs Pepperdine",
+    "category": "Baseball",
+    "homeAway": "Home",
+    "date": "2026-03-17",
+    "time": "6:00 PM",
+    "location": "Jackie Robinson Stadium",
+    "link": "https://ucla.evenue.net/events/BSBHOME"
+  },
+  {
+    "title":"UCLA vs Maryland",
+    "category": "Baseball",
+    "homeAway": "Home",
+    "date": "2026-03-20",
+    "time": "6:00 PM",
+    "location": "Jackie Robinson Stadium",
+    "link": "https://ucla.evenue.net/events/BSBHOME"
+  },
+  {
+    "title":"UCLA vs Maryland",
+    "category": "Baseball",
+    "homeAway": "Home",
+    "date": "2026-03-21",
+    "time": "2:00 PM",
+    "location": "Jackie Robinson Stadium",
+    "link": "https://ucla.evenue.net/events/BSBHOME"
+  },
+  {
+    "title":"UCLA vs Maryland",
+    "category": "Baseball",
+    "homeAway": "Home",
+    "date": "2026-03-22",
+    "time": "1:00 PM",
+    "location": "Jackie Robinson Stadium",
+    "link": "https://ucla.evenue.net/events/BSBHOME"
+  },
+  {
+    "title":"UCLA vs LMU",
+    "category": "Baseball",
+    "homeAway": "Home",
+    "date": "2026-03-24",
+    "time": "6:00 PM",
+    "location": "Jackie Robinson Stadium",
+    "link": "https://ucla.evenue.net/events/BSBHOME"
+  },
+  {
+    "title":"UCLA vs USC",
+    "category": "Baseball",
+    "homeAway": "Away",
+    "date": "2026-03-25",
+    "time": "2:00 PM",
+    "location": "Dedeaux Field",
+    "link": "https://usctrojans.evenue.net/event/BSB25/BS6"
+  },
+  {
+    "title":"UCLA vs UC Irvine",
+    "category": "Baseball",
+    "homeAway": "Away",
+    "date": "2026-03-31",
+    "time": "6:00 PM",
+    "location": "Cicerone Field",
+    "link": "https://ucirvinetickets.evenue.net/event/BS26/BS13"
+  },
+  {
+    "title":"UCLA vs USC",
+    "category": "Baseball",
+    "homeAway": "Home",
+    "date": "2026-04-03",
+    "time": "6:00 PM",
+    "location": "Jackie Robinson Stadium",
+    "link": "https://ucla.evenue.net/events/BSBHOME"
+  },
+  {
+    "title":"UCLA vs USC",
+    "category": "Baseball",
+    "homeAway": "Home",
+    "date": "2026-04-04",
+    "time": "2:00 PM",
+    "location": "Jackie Robinson Stadium",
+    "link": "https://ucla.evenue.net/events/BSBHOME"
+  },
+  {
+    "title":"UCLA vs USC",
+    "category": "Baseball",
+    "homeAway": "Home",
+    "date": "2026-04-05",
+    "time": "1:00 PM",
+    "location": "Jackie Robinson Stadium",
+    "link": "https://ucla.evenue.net/events/BSBHOME"
+  },
+  {
+    "title":"UCLA vs Cal State Fullerton",
+    "category": "Baseball",
+    "homeAway": "Away",
+    "date": "2026-04-07",
+    "time": "6:00 PM",
+    "location": "Goodwin Field",
+    "link": "https://fullertontickets.evenue.net/event/BS26/BS14"
+  },
+  {
+    "title":"UCLA vs Cal State Fullerton",
+    "category": "Baseball",
+    "homeAway": "Away",
+    "date": "2026-04-08",
+    "time": "2:00 PM",
+    "location": "Goodwin Field",
+    "link": "https://fullertontickets.evenue.net/event/BS26/BS14"
+  },
+  {
+    "title":"UCLA vs UCSB",
+    "category": "Baseball",
+    "homeAway": "Home",
+    "date": "2026-04-14",
+    "time": "4:00 PM",
+    "location": "Jackie Robinson Stadium",
+    "link": "https://ucla.evenue.net/events/BSBHOME"
+  },
+  {
+    "title":"UCLA vs Minnesota",
+    "category": "Baseball",
+    "homeAway": "Home",
+    "date": "2026-04-17",
+    "time": "6:00 PM",
+    "location": "Jackie Robinson Stadium",
+    "link": "https://ucla.evenue.net/events/BSBHOME"
+  },
+  {
+    "title":"UCLA vs Minnesota",
+    "category": "Baseball",
+    "homeAway": "Home",
+    "date": "2026-04-18",
+    "time": "2:00 PM",
+    "location": "Jackie Robinson Stadium",
+    "link": "https://ucla.evenue.net/events/BSBHOME"
+  },
+  {
+    "title":"UCLA vs Minnesota",
+    "category": "Baseball",
+    "homeAway": "Home",
+    "date": "2026-04-19",
+    "time": "12:00 PM",
+    "location": "Jackie Robinson Stadium",
+    "link": "https://ucla.evenue.net/events/BSBHOME"
+  },
+  {
+    "title":"UCLA vs Hawaii",
+    "category": "Baseball",
+    "homeAway": "Away",
+    "date": "2026-04-21",
+    "time": "6:00 PM",
+    "location": "Jackie Robinson Stadium",
+    "link": "https://ucla.evenue.net/events/BSBHOME"
+  },
+  {
+    "title":"UCLA vs Sacramento State",
+    "category": "Baseball",
+    "homeAway": "Home",
+    "date": "2026-04-24",
+    "time": "6:00 PM",
+    "location": "Pauley Pavilion",
+    "link": "https://ucla.evenue.net/list/SB"
+  },
+  {
+    "title":"UCLA vs Sacramento State",
+    "category": "Baseball",
+    "homeAway": "Home",
+    "date": "2026-04-25",
+    "time": "2:00 PM",
+    "location": "Jackie Robinson Stadium",
+    "link": "https://ucla.evenue.net/events/BSBHOME"
+  },
+  {
+    "title":"UCLA vs Sacramento State",
+    "category": "Baseball",
+    "homeAway": "Home",
+    "date": "2026-04-26",
+    "time": "1:00 PM",
+    "location": "Jackie Robinson Stadium",
+    "link": "https://ucla.evenue.net/events/BSBHOME"
+  },
+  {
+    "title":"UCLA vs UCSB",
+    "category": "Baseball",
+    "homeAway": "Away",
+    "date": "2026-04-28",
+    "time": "4:35 PM",
+    "location": "Caesar Uyesaka Stadium",
+    "link": "https://tix.axs.com/6LSPOgAAAACxOvRyAQAAAAAN%2fv%2f%2f%2fwD%2f%2f%2f%2f%2fB3Vjc2JhdGgA%2f%2f%2f%2f%2f%2f%2f%2f%2f%2f8%3d/shop/search"
+  },
+  {
+    "title":"UCLA vs LMU",
+    "category": "Baseball",
+    "homeAway": "Away",
+    "date": "2026-05-05",
+    "time": "6:00 PM",
+    "location": "Page Stadium",
+    "link": "https://lmulions.com/sports/baseball/schedule"
+  },
+  {
+    "title":"UCLA vs Oregon State",
+    "category": "Baseball",
+    "homeAway": "Home",
+    "date": "2026-05-08",
+    "time": "6:00 PM",
+    "location": "Jackie Robinson Stadium",
+    "link": "https://ucla.evenue.net/events/BSBHOME"
+  },
+  {
+    "title":"UCLA vs Oregon State",
+    "category": "Baseball",
+    "homeAway": "Home",
+    "date": "2026-05-09",
+    "time": "2:00 PM",
+    "location": "Jackie Robinson Stadium",
+    "link": "https://ucla.evenue.net/events/BSBHOME"
+  },
+  {
+    "title":"UCLA vs Oregon State",
+    "category": "Baseball",
+    "homeAway": "Home",
+    "date": "2026-05-10",
+    "time": "12:00 PM",
+    "location": "Jackie Robinson Stadium",
+    "link": "https://ucla.evenue.net/events/BSBHOME"
+  },
+
+  {
+    "title":"UCLA vs Oregon State",
+    "category": "Softball",
+    "homeAway": "Away",
+    "date": "2026-03-01",
+    "time": "9:30 AM",
+    "location": "Anderson Family Field",
+    "link": "https://fullertontitanstickets.com/tickets/events/softball"
+  },
+  {
+    "title":"UCLA vs Wisconsin",
+    "category": "Softball",
+    "homeAway": "Home",
+    "date": "2026-03-06",
+    "time": "7:00 PM",
+    "location": "Easton Stadium",
+    "link": "https://ucla.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS:MULTI:SB25:4303:&linkID=ucla-multi&dataAccId=930&locale=en_US&siteId=ev_ucla-multi"
+  },
+  {
+    "title":"UCLA vs Wisconsin",
+    "category": "Softball",
+    "homeAway": "Home",
+    "date": "2026-03-07",
+    "time": "6:00 PM",
+    "location": "Easton Stadium",
+    "link": "https://ucla.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS:MULTI:SB25:4304:&linkID=ucla-multi&dataAccId=930&locale=en_US&siteId=ev_ucla-multi"
+  },
+  {
+    "title":"UCLA vs Wisconsin",
+    "category": "Softball",
+    "homeAway": "Home",
+    "date": "2026-03-08",
+    "time": "12:00 PM",
+    "location": "Easton Stadium",
+    "link": "https://ucla.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS:MULTI:SB25:4305:&linkID=ucla-multi&dataAccId=930&locale=en_US&siteId=ev_ucla-multi"
+  },
+  {
+    "title":"UCLA vs LMU",
+    "category": "Softball",
+    "homeAway": "Home",
+    "date": "2026-03-11",
+    "time": "6:00 PM",
+    "location": "Easton Stadium",
+    "link": "https://ucla.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS:MULTI:SB25:4306:&linkID=ucla-multi&dataAccId=930&locale=en_US&siteId=ev_ucla-multi"
+  },
+  {
+    "title":"UCLA vs Michigan State",
+    "category": "Softball",
+    "homeAway": "Home",
+    "date": "2026-03-13",
+    "time": "7:00 PM",
+    "location": "Easton Stadium",
+    "link": "https://ucla.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS:MULTI:SB25:4307:&linkID=ucla-multi&dataAccId=930&locale=en_US&siteId=ev_ucla-multi"
+  },
+  {
+    "title":"UCLA vs Michigan State",
+    "category": "Softball",
+    "homeAway": "Home",
+    "date": "2026-03-14",
+    "time": "6:00 PM",
+    "location": "Easton Stadium",
+    "link": "https://ucla.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS:MULTI:SB25:4308:&linkID=ucla-multi&dataAccId=930&locale=en_US&siteId=ev_ucla-multi"
+  },
+  {
+    "title":"UCLA vs Michigan State",
+    "category": "Softball",
+    "homeAway": "Home",
+    "date": "2026-03-15",
+    "time": "12:00 PM",
+    "location": "Easton Stadium",
+    "link": "https://ucla.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS:MULTI:SB25:4309:&linkID=ucla-multi&dataAccId=930&locale=en_US&siteId=ev_ucla-multi"
+  },
+  {
+    "title":"UCLA vs Hawai'i",
+    "category": "Softball",
+    "homeAway": "Home",
+    "date": "2026-04-02",
+    "time": "3:00 PM",
+    "location": "Easton Stadium",
+    "link": "https://ucla.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS:MULTI:SB25:4310:&linkID=ucla-multi&dataAccId=930&locale=en_US&siteId=ev_ucla-multi"
+  },
+  {
+    "title":"UCLA vs Indiana",
+    "category": "Softball",
+    "homeAway": "Home",
+    "date": "2026-04-03",
+    "time": "7:00 PM",
+    "location": "Easton Stadium",
+    "link": "https://ucla.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS:MULTI:SB25:4311:&linkID=ucla-multi&dataAccId=930&locale=en_US&siteId=ev_ucla-multi"
+  },
+  {
+    "title":"UCLA vs Indiana",
+    "category": "Softball",
+    "homeAway": "Home",
+    "date": "2026-04-04",
+    "time": "6:00 PM",
+    "location": "Easton Stadium",
+    "link": "https://ucla.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS:MULTI:SB25:4312:&linkID=ucla-multi&dataAccId=930&locale=en_US&siteId=ev_ucla-multi"
+  },
+  {
+    "title":"UCLA vs Indiana",
+    "category": "Softball",
+    "homeAway": "Home",
+    "date": "2026-04-05",
+    "time": "12:00 PM",
+    "location": "Easton Stadium",
+    "link": "https://ucla.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS:MULTI:SB25:4313:&linkID=ucla-multi&dataAccId=930&locale=en_US&siteId=ev_ucla-multi"
+   },
+  {
+    "title":"UCLA vs Cal State Fullerton",
+    "category": "Softball",
+    "homeAway": "Away",
+    "date": "2026-04-07",
+    "time": "7:00 PM",
+    "location": "Anderson Family Field",
+    "link": "https://fullertontitanstickets.com/tickets/events/softball"
+  },
+  {
+    "title":"UCLA vs Cal Baptist",
+    "category": "Softball",
+    "homeAway": "Home",
+    "date": "2026-04-14",
+    "time": "6:00 PM",
+    "location": "Easton Stadium",
+    "link": "https://ucla.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS:MULTI:SB25:4314:&linkID=ucla-multi&dataAccId=930&locale=en_US&siteId=ev_ucla-multi"
+  },
+  {
+    "title":"UCLA vs Long Beach State",
+    "category": "Softball",
+    "homeAway": "Away",
+    "date": "2026-04-15",
+    "time": "6:00 PM",
+    "location": "LBSU Softball Complex",
+    "link": "https://longbeachstate.evenue.net/event/SB2526/SB13"
+  },
+  {
+    "title":"UCLA vs Berkeley",
+    "category": "Softball",
+    "homeAway": "Home",
+    "date": "2026-04-18",
+    "time": "12:00 PM",
+    "location": "Easton Stadium",
+    "link": "https://ucla.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS:MULTI:SB25:4315:&linkID=ucla-multi&dataAccId=930&locale=en_US&siteId=ev_ucla-multi"
+  },
+  {
+    "title":"UCLA vs Oregon State",
+    "category": "Softball",
+    "homeAway": "Home",
+    "date": "2026-05-01",
+    "time": "7:00 PM",
+    "location": "Easton Stadium",
+    "link": "https://ucla.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS:MULTI:SB25:4316:&linkID=ucla-multi&dataAccId=930&locale=en_US&siteId=ev_ucla-multi"
+  },
+  {
+    "title":"UCLA vs Oregon State",
+    "category": "Softball",
+    "homeAway": "Home",
+    "date": "2026-05-02",
+    "time": "6:00 PM",
+    "location": "Easton Stadium",
+    "link": "https://ucla.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS:MULTI:SB25:4317:&linkID=ucla-multi&dataAccId=930&locale=en_US&siteId=ev_ucla-multi"
+  },
+    {
+      "title":"UCLA vs Oregon State",
+      "category": "Softball",
+      "homeAway": "Home",
+      "date": "2026-05-03",
+      "time": "12:00 PM",
+      "location": "Easton Stadium",
+      "link": "https://ucla.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS:MULTI:SB25:4318:&linkID=ucla-multi&dataAccId=930&locale=en_US&siteId=ev_ucla-multi"
+    }
+  ]
+
+
+
+
+
