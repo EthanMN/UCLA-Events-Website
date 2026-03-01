@@ -1,17 +1,3 @@
-// Replace this with your full merged UCLA events JSON
-// const allEvents = [
-//   {
-//     "title": "UCLA vs Nebraska",
-//     "category": "Basketball (M)",
-//     "homeAway": "Home",
-//     "date": "2026-03-03",
-//     "time": "8:00 PM",
-//     "location": "Pauley Pavilion",
-//     "link": "https://ucla.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS:MULTI:MBB25:219:&linkID=ucla-multi&dataAccId=930&locale=en_US&siteId=ev_ucla-multi&RSRC=Email&RDAT=4567"
-//   }
-//   // add the rest of your JSON here
-// ];
-
 let currentMonth = new Date().getMonth();
 let currentYear = new Date().getFullYear();
 let allEventsGlobal = [];
@@ -22,14 +8,6 @@ const files = [
   "../scheduleData/othersports.json"
 ];
 
-// Load all events
-Promise.all(files.map(file => fetch(file).then(res => res.json())))
-  .then(dataArrays => {
-    allEventsGlobal = dataArrays.flat();
-    allEventsGlobal.sort((a,b) => new Date(a.date) - new Date(b.date));
-    renderCalendar(allEventsGlobal);
-  })
-  .catch(err => console.error("Error loading events:", err));
 
 function renderCalendar(events) {
   const calendarGrid = document.getElementById("calendar-grid");
@@ -57,6 +35,7 @@ function renderCalendar(events) {
     const dayStr = `${currentYear}-${String(currentMonth+1).padStart(2,"0")}-${String(day).padStart(2,"0")}`;
     const dayEvents = events.filter(e => {
       const eventDate = new Date(e.date);
+      eventDate.setDate(eventDate.getDate() + 1); // Adjust for timezone issues
       const eventStr = `${eventDate.getFullYear()}-${String(eventDate.getMonth()+1).padStart(2,"0")}-${String(eventDate.getDate()).padStart(2,"0")}`;
       return eventStr === dayStr;
     });
@@ -92,4 +71,51 @@ document.getElementById("next-month").addEventListener("click", () => {
   if (currentMonth > 11) { currentMonth = 0; currentYear++; }
   renderCalendar(allEventsGlobal);
 });
+ // Populate sport filter dynamically
+function populateSportFilter(events) {
+  const sportSelect = document.getElementById("sportFilter");
+  const categories = [...new Set(events.map(e => e.category))];
 
+  categories.forEach(cat => {
+    const option = document.createElement("option");
+    option.value = cat;
+    option.textContent = cat;
+    sportSelect.appendChild(option);
+  });
+}
+
+// Apply filters whenever a dropdown changes
+function applyFilters() {
+  const homeAwayValue = document.getElementById("homeAwayFilter").value;
+  const sportValue = document.getElementById("sportFilter").value;
+
+  let filteredEvents = allEventsGlobal;
+
+  if (homeAwayValue !== "all") {
+    filteredEvents = filteredEvents.filter(e => e.homeAway === homeAwayValue);
+  }
+
+  if (sportValue !== "all") {
+    filteredEvents = filteredEvents.filter(e => e.category === sportValue);
+  }
+
+  renderCalendar(filteredEvents);
+}
+
+// Event listeners
+document.getElementById("homeAwayFilter").addEventListener("change", applyFilters);
+document.getElementById("sportFilter").addEventListener("change", applyFilters);
+
+// After loading JSON files
+Promise.all(files.map(file => fetch(file).then(res => res.json())))
+  .then(dataArrays => {
+    allEventsGlobal = dataArrays.flat();
+    allEventsGlobal.sort((a, b) => {
+    const dateA = new Date(`${a.date} ${a.time}`);
+    const dateB = new Date(`${b.date} ${b.time}`);
+    return dateA - dateB;
+});
+    populateSportFilter(allEventsGlobal);
+    renderCalendar(allEventsGlobal);
+  })
+  .catch(console.error);

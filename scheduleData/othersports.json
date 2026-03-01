@@ -18,7 +18,15 @@
     "location": "Galen Center",
     "link": "https://usctrojans.evenue.net/event/B25/BM16?_gl=1*1frwkhp*_gcl_au*MTE0ODE5NzQyNi4xNzcyMzg5OTky*_ga*MTczMjkwNTc4NS4xNzcyMzg5OTky*_ga_HZ7PFGMW52*czE3NzIzODk5OTEkbzEkZzAkdDE3NzIzODk5OTEkajYwJGwwJGgw*_ga_7GTPB9B8WQ*czE3NzIzODk5OTEkbzEkZzAkdDE3NzIzODk5OTEkajYwJGwwJGgw&_ga=2.251358918.1501305303.1772389992-1732905785.1772389992"
   },
-  
+  {
+    "title":"UCLA vs Stanford",
+    "category": "Gymnastics",
+    "homeAway": "Away",
+    "date": "2026-03-07",
+    "time": "2:00 PM",
+    "location": "Maples Pavilion",
+    "link": "https://tickets.gostanford.com/checkout/690d126ffbd07da2c9bed63c?"
+  },
   {
     "title":"UCLA vs Utah",
     "category": "Gymnastics",
@@ -49,11 +57,38 @@
   {
     "title":"UCLA vs Pepperdine",
     "category": "Volleyball (M)",
-    "homeAway": "Home",
+    "homeAway": "Away",
     "date": "2026-04-02",
+    "time": "5:00 PM",
+    "location": "Firestone Fieldhouse",
+    "link": "https://pepperdinewaves.evenue.net/event/ATH26/MV12"
+  },
+  {
+    "title":"UCLA vs Pepperdine",
+    "category": "Volleyball (M)",
+    "homeAway": "Home",
+    "date": "2026-04-04",
     "time": "5:00 PM",
     "location": "Pauley Pavilion",
     "link": "https://ucla.evenue.net/list/MVB"
+  },
+  {
+    "title":"UCLA vs UC Merced",
+    "category": "Volleyball (M)",
+    "homeAway": "Away",
+    "date": "2026-04-09",
+    "time": "6:00 PM",
+    "location": "Joseph Edward Gallo Recreation Center",
+    "link": "https://tickets.ucmercedbobcats.com/event/mens-volleyball-vs-ucla-n3mkew"
+  },
+  {
+    "title":"UCLA vs UC Merced",
+    "category": "Volleyball (M)",
+    "homeAway": "Away",
+    "date": "2026-04-10",
+    "time": "6:00 PM",
+    "location": "Joseph Edward Gallo Recreation Center",
+    "link": "https://tickets.ucmercedbobcats.com/event/mens-volleyball-vs-ucla-n3mkew"
   },
   {
     "title":"UCLA vs BYU",
