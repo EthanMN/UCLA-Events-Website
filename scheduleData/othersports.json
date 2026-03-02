@@ -109,12 +109,13 @@
     "link": "https://ucla.evenue.net/list/MVB"
   },
     {
-      "title":"UCLA vs USC",
-      "category": "Volleyball (W)",
+      "title":"UCLA vs Menlo",
+      "category": "Volleyball (M)",
       "homeAway": "Away",
-      "date": "2026-03-03",
-      "time": "7:00 PM",
-      "location": "Galen Center",
-      "link": "https://usctrojans.evenue.net/event/VBW25/VW6"
+      "date": "2026-04-12",
+      "time": "2:00 PM",
+      "location": "Haynes-Prim Pavillion",
+      "link": "https://events.hometownticketing.com/boxoffice/menlo/L2VtYmVkL2V2ZW50LzY1NA=="
     }
+
   ]
