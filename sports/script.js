@@ -16,7 +16,7 @@ function renderCalendar(events) {
   const firstDay = new Date(currentYear, currentMonth, 1).getDay();
   const lastDate = new Date(currentYear, currentMonth + 1, 0).getDate();
 
-  // Empty cells before first day
+ 
   for (let i = 0; i < firstDay; i++) {
     const emptyCell = document.createElement("div");
     calendarGrid.appendChild(emptyCell);
@@ -53,7 +53,7 @@ function renderCalendar(events) {
     calendarGrid.appendChild(dayCell);
   }
 
-  // Header
+ 
   const monthYear = document.getElementById("month-year");
   const monthNames = ["January","February","March","April","May","June","July","August","September","October","November","December"];
   monthYear.textContent = `${monthNames[currentMonth]} ${currentYear}`;
@@ -71,7 +71,6 @@ document.getElementById("next-month").addEventListener("click", () => {
   if (currentMonth > 11) { currentMonth = 0; currentYear++; }
   renderCalendar(allEventsGlobal);
 });
- // Populate sport filter dynamically
 function populateSportFilter(events) {
   const sportSelect = document.getElementById("sportFilter");
   const categories = [...new Set(events.map(e => e.category))];
@@ -84,7 +83,6 @@ function populateSportFilter(events) {
   });
 }
 
-// Apply filters whenever a dropdown changes
 function applyFilters() {
   const homeAwayValue = document.getElementById("homeAwayFilter").value;
   const sportValue = document.getElementById("sportFilter").value;
@@ -102,11 +100,11 @@ function applyFilters() {
   renderCalendar(filteredEvents);
 }
 
-// Event listeners
+
 document.getElementById("homeAwayFilter").addEventListener("change", applyFilters);
 document.getElementById("sportFilter").addEventListener("change", applyFilters);
 
-// After loading JSON files
+
 Promise.all(files.map(file => fetch(file).then(res => res.json())))
   .then(dataArrays => {
     allEventsGlobal = dataArrays.flat();

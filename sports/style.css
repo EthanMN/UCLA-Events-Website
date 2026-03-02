@@ -42,14 +42,14 @@ body {
   display: block;
   text-decoration: none;
 }
-/* Calendar sidebar styles */
+
 #calendar-container-wrapper {
   display: flex;
   gap: 20px;
 }
 
 #calendar-container {
-  flex: 1; /* take remaining space */
+  flex: 1; 
 }
 
 #calendar-sidebar {
@@ -58,7 +58,7 @@ body {
   padding: 10px;
   border-radius: 6px;
   background: #f9f9f9;
-  height: fit-content; /* sidebar height matches content */
+  height: fit-content; 
 }
 
 #calendar-sidebar h3 {
@@ -77,7 +77,7 @@ body {
   padding: 4px;
 }
 
-/* Color-code categories (optional) */
+/* Color-code categories*/
 .event.Basketball { background: #2e6cff; }
 .event.VolleyballM { background: #ff6b6b; }
 .event.VolleyballW { background: #ff8c00; }
